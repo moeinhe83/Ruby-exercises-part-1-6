@@ -11,3 +11,5 @@ Example ===> Write A Program That Takes A Number From The User And Checks The Di
 Description Of Files:
 
 For Run ===> ruby practice_6.rb
+
+# Finish
