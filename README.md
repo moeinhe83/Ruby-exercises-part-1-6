@@ -1,4 +1,4 @@
-Project Name ===> Exercises Part 6
+Project Name ===> Ruby - Exercises Part 1
 
 Question Number ===> 6
 
