@@ -4,7 +4,7 @@ Question Number ===> 6
 
 Programming Language ===> Ruby
 
-Program Description ===> The sixth exercise
+Program Description ===> The Sixth Exercise
 
 Example ===> Write A Program That Takes A Number From The User And Checks The Divisibility Of The Number By 3 & 6
 
